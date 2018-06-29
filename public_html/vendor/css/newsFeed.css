@@ -1,0 +1,13 @@
+.fauxevent {
+	display: none;
+}
+#newsFeed {
+	max-width: 500px;
+	margin: 15px auto 0 auto;
+}
+body {
+	background-color: #444;
+}
+#content-div {
+    height: auto;
+}

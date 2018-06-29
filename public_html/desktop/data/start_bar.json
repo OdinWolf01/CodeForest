@@ -1,0 +1,10 @@
+[
+  ["Members Page", "new NewWindowClass('Members Page', 'desktop/mem.php', 'desktop/assets/images/icon_folder_22x22.png', 300, 200);" ],
+  ["Friends List", "new NewWindowClass('Friends List', 'desktop/fri.php', 'desktop/assets/images/icon_system-users_22x22.png', 600, 200);" ],
+  ["Chat", "new NewWindowClass('Chat', 'desktop/cht.php', 'desktop/assets/images/icon_input-keyboard_22x22.png', 300, 200);" ],
+  ["Groups", "new NewWindowClass('Groups', 'desktop/grp.php', 'desktop/assets/images/icon_network-workgroup_22x22.png', 300, 200);" ],
+  ["Settings", "new NewWindowClass('Settings', 'profile_settings.php', 'desktop/assets/images/icon_applications-system_22x22.png', 300, 200);" ],
+  ["Test Me", "alert('you can place any JS you want here');"],
+  ["<i class='fa fa-home'></i>", "window.location.href = '/';"],
+  ["<i class='fa fa-power-off'></i>", "window.location.href = '/logout.php';"]
+]

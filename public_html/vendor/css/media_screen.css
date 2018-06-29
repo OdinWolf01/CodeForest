@@ -1,0 +1,115 @@
+
+@media (min-width:500px){/*Class name*/{/*properties*/}}
+@media (max-width:499px){/*Class name*/{/*properties*/}}
+
+
+
+@media only (max-width: 720px) {
+    body {
+    }
+}
+
+@media only (max-width: 700px) {
+    body {
+       
+    }
+}
+
+@media only (max-width: 600px) {
+    .body {
+       
+    }
+}
+
+@media only (max-width: 550px) {
+    .body {
+       
+    }
+}
+
+@media only (max-width: 500px) {
+    .body {
+       
+    }
+}
+
+@media only (max-width: 480px) {
+    .body {
+       
+    }
+}
+
+@media only  (max-width: 320px) {
+    .body {
+       
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .body {
+       
+    }
+}
+
+/**********************************************/
+@media only (max-width: 720px) {
+    .body {
+       
+    }
+}
+
+@media only (max-width: 700px) {
+    .body {
+       
+    }
+}
+
+@media only (max-width: 600px) {
+    .html{
+       
+    }
+}
+
+@media only (max-width: 550px) {
+    .html{
+       
+    }
+}
+
+
+@media only (max-width: 500px) {
+    .html {
+       
+    }
+}
+
+@media only (max-width: 480px) {
+    .html {
+       
+    }
+}
+
+@media only  (max-width: 320px) {
+    .html {
+       
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .html{
+       
+    }
+}
+
+
+@media screen {
+  body {
+    width: 75%;
+  }
+}
+
+@media print {
+  body {
+    width: 100%;
+  }
+}

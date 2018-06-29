@@ -1,0 +1,76 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/mint-choc/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function(){
+  $("#tabs1").tabs();
+  $("#tabs2").tabs();
+  $("#tabs3").tabs();
+});
+</script>
+</head>
+<body>
+<div id="tabs1">
+  <ul>
+    <li><a href="#fragment-1a"><span>One</span></a></li>
+    <li><a href="#fragment-2a"><span>Two</span></a></li>
+    <li><a href="#fragment-3a"><span>Three</span></a></li>
+  </ul>
+  <div id="fragment-1a">
+    <p>First tab is active by default:</p>
+    <pre><code>$( "#tabs" ).tabs(); </code></pre>
+  </div>
+  <div id="fragment-2a">
+    <div id="tabs2">
+      <ul>
+        <li><a href="#fragment-1b"><span>One</span></a></li>
+        <li><a href="#fragment-2b"><span>Two</span></a></li>
+        <li><a href="#fragment-3b"><span>Three</span></a></li>
+      </ul>
+      <div id="fragment-1b">
+        <p>First tab is active by default:</p>
+        <pre><code>$( "#tabs" ).tabs(); </code></pre>
+      </div>
+      <div id="fragment-2b">
+        <div id="tabs3">
+          <ul>
+            <li><a href="#fragment-1c"><span>One</span></a></li>
+            <li><a href="#fragment-2c"><span>Two</span></a></li>
+            <li><a href="#fragment-3c"><span>Three</span></a></li>
+          </ul>
+          <div id="fragment-1c">
+            <p>First tab is active by default:</p>
+            <pre><code>$( "#tabs" ).tabs(); </code></pre>
+          </div>
+          <div id="fragment-2c">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+          </div>
+          <div id="fragment-3c">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+          </div>
+        </div>
+      </div>
+      <div id="fragment-3b">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+      </div>
+    </div>
+  </div>
+  <div id="fragment-3a">
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+  </div>
+</div>
+</body>
+</html>

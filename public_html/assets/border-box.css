@@ -1,0 +1,10 @@
+.border-box {
+height: 200px auto;
+  overflow: scroll;
+  border: 3px solid #C0C0C0;
+  padding: 5px;
+  font-family: Tahoma, sans-serif;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

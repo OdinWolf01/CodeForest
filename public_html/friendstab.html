@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function() {
+
+	var friendsphp = [
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"], 
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"], 
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"], 
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"], 
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"], 
+			["kdodge", "1234", "5678"], ["datajumper", "9abc", "def0"], ["adam", "xxyy", "zzaa"], ["bob", "zzaa", "bbcc"] 
+		];
+
+	$('#friendstab').empty();
+	$.each(friendsphp, function(key, value) {
+		var fig = $(document.createElement('figure'));
+		$('#friendstab').append(fig);
+		var img = $(document.createElement('img'));
+		img.css('margin', '20px 70px 40px');
+		img.addClass('img-circle');
+		img.attr('src', 'avatar.php?pic='+value[2]);
+		img.alt = 'avatar='+value[2];
+		img.width = '100px';
+		img.height = '100px';
+		fig.append(img);
+		var figcaption = $(document.createElement('figcaption'));
+		var messagebtn = $(document.createElement('button'));
+		messagebtn.append('Message');
+		var unfriendbtn = $(document.createElement('button'));
+		unfriendbtn.append('Unfriend');
+		figcaption.append(value[0]);
+		figcaption.append(messagebtn);
+		figcaption.append('&nbsp;');
+		figcaption.append(unfriendbtn);
+		$('#friendstab').append(figcaption);
+
+		//$('#friendstab').append("<figure>");
+		//$('#friendstab').append('<img style="margin: 20px 70px 40px;" class="img-circle" src="avatar.php?pic='+value[2]+'" alt="avatar='+value[2]+'" width="100px" height="100px">');
+		//$('#friendstab').append('<figcaption>'+value[0]+'<button class="btn-primary">Message</button>&nbsp;<button class="btn btn-danger">Unfriend</button></figcaption>');
+		//$('#friendstab').append('</figure>');
+               //C@11tech83$$  or C@11tech83##$$   but i think its C@11tech83$$ :)
+	});
+
+
+});
+</script>
+</head>
+<body>
+<div class="gallery" align="center">
+  <div id="friendstab"></div>
+</div>
+</body>
+</html>
+

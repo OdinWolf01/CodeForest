@@ -1,0 +1,88 @@
+[09-Jun-2018 19:06:32 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:06:32 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:06:32 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:06:32 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:09:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:09:05 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:09:05 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:09:05 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:16:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:16:33 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:16:33 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:16:33 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:19:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:19:05 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:19:05 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:19:05 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:26:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:26:36 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:26:36 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:26:36 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:29:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:29:05 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:29:05 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:29:05 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:29:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:29:53 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:29:53 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:29:53 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:30:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:30:52 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:30:52 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:30:52 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:31:17 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:31:17 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:31:17 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:31:17 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:32:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:32:49 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:32:49 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:32:49 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:33:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:33:49 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:33:49 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:33:49 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:53:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:53:33 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:53:33 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:53:33 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:54:21 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:54:21 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:54:21 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:54:21 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:54:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:54:57 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:54:57 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:54:57 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:55:17 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:55:17 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:55:17 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:55:17 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 19:56:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 19:56:19 America/New_York] PHP Stack trace:
+[09-Jun-2018 19:56:19 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 19:56:19 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 20:06:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:06:19 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:06:19 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 20:06:19 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 20:10:07 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:10:07 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:10:07 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/chatlist_codelet.php:0
+[09-Jun-2018 20:10:07 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/chatlist_codelet.php:4
+[09-Jun-2018 20:10:18 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:10:18 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:10:18 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 20:10:18 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
+[09-Jun-2018 20:10:21 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:10:21 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:10:21 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/contacts_codelet.php:0
+[09-Jun-2018 20:10:21 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/contacts_codelet.php:4
+[09-Jun-2018 20:10:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:10:51 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:10:51 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/contacts_codelet.php:0
+[09-Jun-2018 20:10:51 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/contacts_codelet.php:4
+[09-Jun-2018 20:16:20 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/lzov0wq4jis1/public_html/layout/head_min.php on line 38
+[09-Jun-2018 20:16:20 America/New_York] PHP Stack trace:
+[09-Jun-2018 20:16:20 America/New_York] PHP   1. {main}() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:0
+[09-Jun-2018 20:16:20 America/New_York] PHP   2. require_once() /home/lzov0wq4jis1/public_html/codelets/media_list_codelet.php:4
